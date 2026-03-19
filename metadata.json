@@ -1,0 +1,5 @@
+{
+  "name": "Darkness Escapes",
+  "description": "A 3D first-person horror game built with HTML, JS, and Three.js.",
+  "requestFramePermissions": []
+}
